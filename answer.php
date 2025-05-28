@@ -6,7 +6,7 @@
   <meta charset="utf-8" />
   <meta name="description" content="Volume of a Sphere Query String, with PHP" />
   <meta name="keywords" content="mths, icd2o" />
-  <meta name="author" content="Bain Liao" />
+  <meta name="author" content="Isaac Ip" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
   <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.light_blue-orange.min.css" />
